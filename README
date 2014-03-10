@@ -4,9 +4,9 @@ simpe tool to translate text or words to many languges.
 API detects original languge itself.
 
 
-Using: Translate [to lang] [frase or word]
-Example: Translate fr apple (translate word to French lang)
-Example: Translate en 'bonjour monsieur' (translate pharase to english)
+Using: Translate.sh [to lang] [frase or word]
+Example: Translate.sh fr apple (translate word to French lang)
+Example: Translate.sh en 'bonjour monsieur' (translate pharase to english)
 
 
 P.S. Key in script is not working. Get your own API kay at http://api.yandex.ru/key/form.xml?service=trnsl
