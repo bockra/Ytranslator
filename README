@@ -4,7 +4,11 @@ simpe tool to translate text or words to many languges.
 API detects original languge itself.
 
 
+<<<<<<< HEAD
 Using: Translate.sh[to lang] [frase or word]
+=======
+Using: Translate.sh [to lang] [frase or word]
+>>>>>>> 0c4fb666d986ac5a8831492574723f9da52d80c1
 Example: Translate.sh fr apple (translate word to French lang)
 Example: Translate.sh en 'bonjour monsieur' (translate pharase to english)
 
